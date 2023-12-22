@@ -1,7 +1,0 @@
-大陆风化模拟曲线代码和数据来自于Lipp et al.(2021), 用R运行，对应于文件夹中的weather intensity
-
-风化指标(时间序列用MATLAB运行)：
-（1）CIA、CIW、PIA、WIP数据来自于Lipp et al.(2021)
-（2）K/Al、Rb/Al数据来自于Bayon et al.(2022)
-
-P的数据来自于Reinhard et al.(2017)
