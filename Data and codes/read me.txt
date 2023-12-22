@@ -1,0 +1,8 @@
+
+1. We applied the code from Lipp et al.(2021) to calculate the continental weathering simulation curve
+
+2. We compiled codes (MATLAB) to calculate the time series of other weathering indicators :
+(1) CIA, CIW, PIA and WIP data source were from Lipp et al.(2021).
+(2) K/Al and Rb/Al data source were  from Bayon et al.(2022).
+
+3. The data used for calculate the time series of Phosphorous are from Reinhard et al.(2017).
